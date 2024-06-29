@@ -1,3 +1,4 @@
+
 [
     {
       "name": "Final Stand at Red Square",
@@ -14,7 +15,7 @@
 
     {
         "name": "Blues Classic Musicians",
-        "live": "https://blues-classics-b1ca01f0985f.herokuapp.com/20s",
+        "live": "https://blues-75c184329634.herokuapp.com/20s",
         "git": "https://git.generalassemb.ly/tevon64/Blue-and-R-B-Classics",
         "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1uOGdoMmRyeGh1dm1xbzd5ZHJkemNhY2Iwejh0ZG94eHNlM2s4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CiG0QNVN2CTYjsgKoT/giphy.webp"
       },
